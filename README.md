@@ -15,3 +15,11 @@ Commands:
   ![image](https://user-images.githubusercontent.com/96636835/178366868-db36e4fc-3b66-4202-9454-4b1a01932d39.png)
 
   
+Job 1: DNA base counting problem
+What you will learn: Summarization Design Pattern
+
+Spark’s mapPartitions() transformation can be used to implement the summarization design pattern, which is useful when you’re working with big data and you want to get a summary view so you can glean insights that are not available from looking at a localized set of records alone. This design pattern involves grouping similar data together and then performing an operation such as calculating a statistic, building an index, or simply counting.
+
+![image](https://user-images.githubusercontent.com/96636835/178367326-a4b994a4-ae0b-45d5-9b31-01081b8750b5.png)
+![image](https://user-images.githubusercontent.com/96636835/178367326-a4b994a4-ae0b-45d5-9b31-01081b8750b5.png)
+
