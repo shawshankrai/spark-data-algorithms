@@ -1,4 +1,4 @@
-# pyspark-template
+# spark-data-algorithms
 
 Commands:
   
